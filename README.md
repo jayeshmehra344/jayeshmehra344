@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development using MERN<br><br>🌱 I’m currently learning MERN Stack, API's, Redux, BootstrapCSS<br><br>👯 I’m looking to collaborate on Open Source Projects to improve my skills<br><br>📫 How to reach me jayeshmehra345@gmail.com
+🔭 I’m currently working on Full Stack Development using MERN<br><br>🌱 I’m currently learning MERN Stack, API's, Redux, TailwindCSS<br><br>👯 I’m looking to collaborate on Open Source Projects to improve my skills<br><br>📫 How to reach me jayeshmehra345@gmail.com
 
 
 ## 🌐 Socials:
